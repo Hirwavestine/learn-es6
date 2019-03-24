@@ -1,6 +1,7 @@
-fruits=["orange", "banana", "apple"];
-//repeat while i is between 0 and 2
-for(let i=0; i<3;i++){
+animals=["dog", "cat", "sheep", "rabbit","monkey","tiger", "bear", "elephant"];
+//get the number of fruits(element) in array
+console.log(animals.length);
+for(let i=0; i<animals.length;i++){
     //use the i variable to get the element
-console.log(fruits[i]);
+console.log(animals[i]);
 }
