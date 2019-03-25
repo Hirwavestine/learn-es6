@@ -1,2 +1,3 @@
 const item={name:"shrunk", price: 30}
-console.log(item);
+//getting object values this line will print shrunk
+console.log(item.name);
