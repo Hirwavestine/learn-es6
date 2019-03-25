@@ -4,3 +4,5 @@ const item=[{name:"shrunk", price: 30},
         ];
  //get object in array
  console.log(item[1]);
+ //get object values within in array
+ console.log(item[1].price);
