@@ -1,8 +1,5 @@
-//objects as array elements
-const item=[{name:"shrunk", price: 30},
-            {name:"Ninja Sword", price: 120}
-        ];
- //get object in array
- console.log(item[1]);
- //get object values within in array
- console.log(item[1].price);
+//arrays&iteration
+const characters=[{name:"KEn the Ninja", age:30},
+                {name:"Master White", age:10000},
+                {name:"Ben the Baby Ninja",age:5}
+            ];
