@@ -12,6 +12,6 @@ const cafe={
     console.log(`----------`);
     console.log('Menu Recommandations');
     // Use a for loop to print the contents of the menu array
-    for(let i=0; i<menus.length; i++){
+    for(let i=0; i<cafe.menus.length; i++){
         console.log(cafe.menus[i]);
     }
