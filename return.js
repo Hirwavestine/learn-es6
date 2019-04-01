@@ -1,8 +1,6 @@
-const check=(number)=>{
-    //tue or false(boolean)
-    return number % 2 === 0;
-};
-//output is true
-console.log(check(6));
-//output will be false
-console.log(check(5));
+const add=(a,b)=>{
+    //stop the execution here
+    return a+b;
+    //doesn't execute :However, it's important to note that the code after the return will not run
+    console.log("calculated")
+}
