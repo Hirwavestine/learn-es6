@@ -22,3 +22,17 @@ const information = (name, price) => {
 
 information("Perfume", 48);
 information("Candy", 6);
+//output
+/*
+In US dollars , Perfume is $48
+In Japanese yen, Perfume is Y 5280
+
+-------------------------------
+
+In US dollars , candy is $6
+In Japanese yen, candy is Y 660
+
+
+
+
+*/
